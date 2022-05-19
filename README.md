@@ -21,6 +21,8 @@ Thus, in this project, we propose a framework to generate random numbers that is
 
 Note that we have extensively referred to a prior work: [On Bitcoin as a public randomness source](https://eprint.iacr.org/2015/1015.pdf)
 
+## Implementation
+
 ### The Backend 
 The backbone of our backend is a smart contract written in Solidity. The primary function of this smart contract is to obtain the (Current Block Number - 1) and use that to query the corresponding Block Hash. Finally, we pass this block hash along to the front-end. The contract has been deployed to the Kovan testnet and the address is: __0x69a928bca4a20c55145C04d44cd36e667c67D6ec__
 
