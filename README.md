@@ -1,4 +1,12 @@
-# Publicly-verifable Randomness using Ethereum ![Solidity](https://img.shields.io/badge/Solidity-0.8.13-red) ![React](https://img.shields.io/badge/React-JS-blue)
+# Publicly-verifable Randomness using Ethereum 
+![Solidity](https://img.shields.io/badge/Solidity-0.8.13-red) ![React](https://img.shields.io/badge/React-JS-blue)
 
 Project is hosted at: https://vibodhnautiyal.github.io/randomness-beacon/ (Note that you need to have the MetaMask extension installed)
 
+Corresponding paper detailing the implementation can be found under: https://github.com/vibodhnautiyal/randomness-beacon/blob/main/Blockchain_CSP_Vibodh_Nikhil_FinalProject_Report.pdf
+
+Serves as final project for CS-2361: Blockchain and Cryptocurrencies (Spring 2022)
+
+Contributors: 
+- [Vibodh Nautiyal](https://github.com/vibodhnautiyal) 
+- [Nikhil Bhave](https://github.com/nikhilbhave9)
